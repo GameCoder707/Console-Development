@@ -1,0 +1,43 @@
+
+/*
+	Basic vertex shader
+*/
+
+struct VS_OUTPUT
+{
+	float4 Position		: S_POSITION;
+	float3 Color		: TEXCOORD0;
+	float2 UV			: TEXCOORD1;
+};
+
+
+struct VS_INPUT
+{
+	float3 Position		: POSITION0;
+	float3 Color		: COLOR0;
+	float2 UV			: TEXCOORD0;
+};
+
+#define Vector2Unaligned		float2
+#define Vector3Unaligned		float3
+#define Vector4Unaligned		float4
+
+#define Matrix4Unaligned column_major matrix
+#define unistruct	     ConstantBuffer
+
+unistruct ShaderConstants
+{
+	Matrix4Unaligned m_WorldViewProj;
+	float2 m_uvoffset;
+};
+
+VS_OUTPUT main( VS_INPUT Input )
+{
+	VS_OUTPUT Output;
+
+	Output.Position = mul(m_WorldViewProj, float4(Input.Position.xyz, 1));
+	Output.Color    = Input.Color;
+	Output.UV       = Input.UV + m_uvoffset;
+
+	return Output;
+}

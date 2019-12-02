@@ -1,0 +1,110 @@
+English
+
+Main_Menu
+
+1 Play
+2 Options
+3 Exit Game
+
+Options
+
+1 Language
+2 Audio
+
+S&M
+
+1 Sound
+2 Music
+
+Pause_Menu
+
+1 Resume
+2 Restart
+3 Exit To Main Menu
+
+In_Game
+
+1 Score: %d
+2 Enemies Left: %d
+3 Level %d
+4 Ammo: %d/%d
+5 HP: %d
+
+End_Game
+
+1 Loading Game
+2 Restoring Soul
+3 Level Complete      Loading Next Level
+
+Portugues
+
+Main_Menu
+
+1 Toque
+2 Opcoes
+3 Sair do Jogo
+
+Options
+
+1 Lingua
+2 Audio
+
+Pause_Menu
+
+1 Pausa
+2 Recomecar
+3 Sair
+
+In_Game
+
+1 Ponto: %d
+2 Inimigos Esquerdos: %d
+3 Nivel %d
+4 Municao: %d/%d
+5 HP: %d
+
+End_Game
+
+1 Carregando o jogo
+2 Restaurando a alma
+3 Nivel Completo      Proximo Nivel Carregando
+
+Francais
+
+Main_Menu
+
+1 Jouer
+2 Options
+3 Quitter le jeu
+
+Options
+
+1 La Langue
+2 L'Audio
+
+Pause_Menu
+
+1 Resume
+2 Redemarrer
+3 Quitter le menu principal
+
+In_Game
+
+1 But: %d
+2 Ennemmes laisses: %d
+3 Niveau %d
+4 Munitions: %d/%d
+5 HP: %d
+
+End_Game
+
+1 Chargement du jeu
+2 Retaurer l'ame
+3 Niveau termine      Niveau suivant chargement
+
+List
+
+1 English
+2 Portugues
+3 Francais
+finish

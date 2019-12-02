@@ -1,0 +1,34 @@
+Level 1
+ 
+Enemy 1 1
+Enemy 2 1
+Enemy 3 1
+Enemy 4 2
+Enemy 5 2
+Enemy 6 2
+Enemy 7 3
+Enemy 8 3
+Enemy 9 3
+Enemy 10 1
+
+Level 2
+ 
+Enemy 1 3
+Enemy 2 1
+Enemy 3 2
+Enemy 4 2
+Enemy 5 3
+Enemy 6 1
+Enemy 7 2
+Enemy 8 1
+Enemy 9 3
+Enemy 10 3
+
+Spawn 1 -0.5 1.0
+Spawn 2 0.5 1.0
+Spawn 3 1.0 0.5
+Spawn 4 1.0 -0.5
+Spawn 5 0.5 -1.0
+Spawn 6 -0.5 -1.0
+Spawn 7 -1.0 -0.5
+Spawn 8 -1.0 0.5

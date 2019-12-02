@@ -1,0 +1,138 @@
+English
+
+Main_Menu
+
+1 Play
+2 Options
+3 Exit Game
+
+Button_Guide
+
+1 Select
+2 Back
+
+Options
+
+1 Language
+2 Audio
+
+S&M
+
+1 Sound
+2 Music
+
+Pause_Menu
+
+1 Resume
+2 Restart
+3 Exit To Main Menu
+
+In_Game
+
+1 Score: %d
+2 Enemies Left: %d
+3 Level %d
+4 Ammo: %d/%d
+5 HP: %d
+
+End_Game
+
+1 Loading Game
+2 Restoring Soul
+3 Loading Next Level
+4 Game Complete
+
+Francais
+
+Main_Menu
+
+1 Jouer
+2 Options
+3 Quitter le jeu
+
+Button_Guide
+
+1 Selectionner
+2 Arriere
+
+Options
+
+1 La Langue
+2 L'Audio
+
+S&M
+
+1 Du son
+2 La musique
+
+Pause_Menu
+
+1 Resume
+2 Redemarrer
+3 Quitter le menu principal
+
+In_Game
+
+1 But: %d
+2 Ennemmes laisses: %d
+3 Niveau %d
+4 Munitions: %d/%d
+5 HP: %d
+
+End_Game
+
+1 Chargement du jeu
+2 Retaurer l'ame
+3 Niveau suivant chargement
+4 Jeu termine
+
+Italiano
+
+Main_Menu
+
+1 Giocare
+2 Opzioni
+3 Esci dal gioco
+
+Button_Guide
+
+1 Selezionare
+2 Indietro
+
+Options
+
+1 Lingua
+2 Audio
+
+S&M
+
+1 Suono
+2 Musica
+
+Pause_Menu
+
+1 Resume
+2 Ricomincia
+3 Uscire nel menu principale
+
+In_Game
+
+1 Punto: %d
+2 Gli avversari a sinistra: %d
+3 Livello %d
+4 Ammo: %d/%d
+5 HP: %d
+
+End_Game
+
+1 Caricamento del gioco
+2 Ripristino dell'anima
+3 Caricamento del livello successivo
+4 Gioco completo
+
+List
+
+1 English
+2 Francais
+3 Italiano
+finish

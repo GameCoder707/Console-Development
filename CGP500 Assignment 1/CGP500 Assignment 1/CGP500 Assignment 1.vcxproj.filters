@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Assets.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Gun.cpp" />
+    <ClCompile Include="Background.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Renderer.cpp" />
+    <ClCompile Include="Font.cpp" />
+    <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="Music.cpp" />
+    <ClCompile Include="Particle.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Assets.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Gun.h" />
+    <ClInclude Include="Background.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Sound.h" />
+    <ClInclude Include="Renderer.h" />
+    <ClInclude Include="Font.h" />
+    <ClInclude Include="Music.h" />
+    <ClInclude Include="Particle.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Media\Shaders\my_cs_set_uint_c.pssl" />
+    <None Include="Media\Shaders\my_pix_clear_p.pssl" />
+    <None Include="Media\Shaders\my_shader_p.pssl" />
+    <None Include="Media\Shaders\my_shader_vv.pssl" />
+  </ItemGroup>
+</Project>
